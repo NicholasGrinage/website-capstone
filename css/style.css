@@ -94,3 +94,9 @@ button:hover span{
 button:hover{
     border: none;
 }
+.login{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    cursor: pointer;
+}
