@@ -34,8 +34,8 @@
     color: white;
     text-transform: uppercase;
 }
-.navbar ul li::after{
-    content: '';
+.navbar ul li:hover::after{
+    content: ' ';
     height: 3px;
     width: 0;
     background: #009688;
@@ -95,6 +95,12 @@ button:hover{
     border: none;
 }
 .login{
+    color: white;
+    text-decoration: none;
+    margin-right: 25px;
+    cursor: pointer;
+}
+.products{
     color: white;
     text-decoration: none;
     margin-right: 25px;
