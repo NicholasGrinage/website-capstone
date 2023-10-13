@@ -1,0 +1,9 @@
+<div class="navbar">
+        <ul>
+          <li><a href="signin.html" class="sign-in">Log In</a></li>
+          <li><a href="index.html" class="home">Home</a></li>
+          <li><a href="products.html" class="products">Products</a></li>
+          <li><a href="register.html" class="register">Register</a></li>
+          <li><a href="checkout.html" class="checkout">Checkout</a></li>
+        </ul>
+      </div>
